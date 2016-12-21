@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="he_hangdao02_mesh_wu216.wrl_316">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_u_0168_he_hangdao02</material>
+      <v x="246.2831" y="18.9933" z="-72.9663" u="0.9895" v="0.9681" nx="0" ny="0" nz="-1" />
+      <v x="242.9603" y="18.8958" z="-72.9663" u="0.0005" v="0.9995" nx="0" ny="0" nz="-1" />
+      <v x="242.9602" y="21.8958" z="-72.9663" u="0.0005" v="0.0319" nx="0" ny="0" nz="-1" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="246.2831" y="21.9933" z="-72.9663" u="0.9895" v="0.0005" nx="0" ny="0" nz="-1" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

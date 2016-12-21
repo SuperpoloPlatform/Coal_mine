@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="2bian_mesh_2bian_01_119">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_xp_a40kk30_02_2bian</material>
+      <v x="0.1828" y="-0.5977" z="-1.3298" u="0" v="1" nx="1" ny="0" nz="0" />
+      <v x="0.1828" y="0.8802" z="-1.3298" u="0" v="0" nx="1" ny="0" nz="0" />
+      <v x="0.1828" y="0.8802" z="-0.2087" u="1" v="0" nx="1" ny="0" nz="0" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="0.1828" y="-0.5977" z="-0.2087" u="1" v="1" nx="1" ny="0" nz="0" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

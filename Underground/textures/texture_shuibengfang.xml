@@ -1,0 +1,330 @@
+<library>
+  <textures>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0406.jpg">
+      <file>/textures/u_0406.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0587.jpg">
+      <file>/textures/u_0587.jpg</file>
+    </texture>
+    <texture name="u_0162.jpg">
+      <file>/textures/u_0162.jpg</file>
+    </texture>
+    <texture name="u_0403.jpg">
+      <file>/textures/u_0403.jpg</file>
+    </texture>
+    <texture name="u_0405.jpg">
+      <file>/textures/u_0405.jpg</file>
+    </texture>
+    <texture name="u_0404.jpg">
+      <file>/textures/u_0404.jpg</file>
+    </texture>
+    <texture name="u_0412.jpg">
+      <file>/textures/u_0412.jpg</file>
+    </texture>
+    <texture name="u_0407.jpg">
+      <file>/textures/u_0407.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0411.jpg">
+      <file>/textures/u_0411.jpg</file>
+    </texture>
+    <texture name="u_0413.jpg">
+      <file>/textures/u_0413.jpg</file>
+    </texture>
+    <texture name="u_0587.jpg">
+      <file>/textures/u_0587.jpg</file>
+    </texture>
+    <texture name="u_0406.jpg">
+      <file>/textures/u_0406.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0587.jpg">
+      <file>/textures/u_0587.jpg</file>
+    </texture>
+    <texture name="u_0162.jpg">
+      <file>/textures/u_0162.jpg</file>
+    </texture>
+    <texture name="u_0403.jpg">
+      <file>/textures/u_0403.jpg</file>
+    </texture>
+    <texture name="u_0405.jpg">
+      <file>/textures/u_0405.jpg</file>
+    </texture>
+    <texture name="u_0404.jpg">
+      <file>/textures/u_0404.jpg</file>
+    </texture>
+    <texture name="u_0412.jpg">
+      <file>/textures/u_0412.jpg</file>
+    </texture>
+    <texture name="u_0407.jpg">
+      <file>/textures/u_0407.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0411.jpg">
+      <file>/textures/u_0411.jpg</file>
+    </texture>
+    <texture name="u_0413.jpg">
+      <file>/textures/u_0413.jpg</file>
+    </texture>
+    <texture name="u_0406.jpg">
+      <file>/textures/u_0406.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0587.jpg">
+      <file>/textures/u_0587.jpg</file>
+    </texture>
+    <texture name="u_0162.jpg">
+      <file>/textures/u_0162.jpg</file>
+    </texture>
+    <texture name="u_0403.jpg">
+      <file>/textures/u_0403.jpg</file>
+    </texture>
+    <texture name="u_0405.jpg">
+      <file>/textures/u_0405.jpg</file>
+    </texture>
+    <texture name="u_0404.jpg">
+      <file>/textures/u_0404.jpg</file>
+    </texture>
+    <texture name="u_0412.jpg">
+      <file>/textures/u_0412.jpg</file>
+    </texture>
+    <texture name="u_0407.jpg">
+      <file>/textures/u_0407.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0411.jpg">
+      <file>/textures/u_0411.jpg</file>
+    </texture>
+    <texture name="u_0413.jpg">
+      <file>/textures/u_0413.jpg</file>
+    </texture>
+    <texture name="u_0406.jpg">
+      <file>/textures/u_0406.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0586.jpg">
+      <file>/textures/u_0586.jpg</file>
+    </texture>
+    <texture name="u_0587.jpg">
+      <file>/textures/u_0587.jpg</file>
+    </texture>
+    <texture name="u_0162.jpg">
+      <file>/textures/u_0162.jpg</file>
+    </texture>
+    <texture name="u_0403.jpg">
+      <file>/textures/u_0403.jpg</file>
+    </texture>
+    <texture name="u_0405.jpg">
+      <file>/textures/u_0405.jpg</file>
+    </texture>
+    <texture name="u_0404.jpg">
+      <file>/textures/u_0404.jpg</file>
+    </texture>
+    <texture name="u_0412.jpg">
+      <file>/textures/u_0412.jpg</file>
+    </texture>
+    <texture name="u_0407.jpg">
+      <file>/textures/u_0407.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0411.jpg">
+      <file>/textures/u_0411.jpg</file>
+    </texture>
+    <texture name="u_0413.jpg">
+      <file>/textures/u_0413.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_JoinedMaterial_#58_shuibengfang">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#49_shuibengfang">
+      <texture>u_0406.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#51_shuibengfang">
+      <texture>u_0587.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#52_shuibengfang">
+      <texture>u_0162.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#53_shuibengfang">
+      <texture>u_0403.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#54_shuibengfang">
+      <texture>u_0405.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#55_shuibengfang">
+      <texture>u_0404.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#56_shuibengfang">
+      <texture>u_0412.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_shuibengfang">
+      <texture>u_0407.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#58_shuibengfang">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#59_shuibengfang">
+      <texture>u_0411.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#60_shuibengfang">
+      <texture>u_0413.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#51_shuibengfang">
+      <texture>u_0587.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#49_shuibengfang">
+      <texture>u_0406.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#51_shuibengfang">
+      <texture>u_0587.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#52_shuibengfang">
+      <texture>u_0162.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#53_shuibengfang">
+      <texture>u_0403.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#54_shuibengfang">
+      <texture>u_0405.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#55_shuibengfang">
+      <texture>u_0404.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#56_shuibengfang">
+      <texture>u_0412.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_shuibengfang">
+      <texture>u_0407.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#58_shuibengfang">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#59_shuibengfang">
+      <texture>u_0411.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#60_shuibengfang">
+      <texture>u_0413.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#49_shuibengfang">
+      <texture>u_0406.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#51_shuibengfang">
+      <texture>u_0587.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#52_shuibengfang">
+      <texture>u_0162.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#53_shuibengfang">
+      <texture>u_0403.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#54_shuibengfang">
+      <texture>u_0405.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#55_shuibengfang">
+      <texture>u_0404.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#56_shuibengfang">
+      <texture>u_0412.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_shuibengfang">
+      <texture>u_0407.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#58_shuibengfang">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#59_shuibengfang">
+      <texture>u_0411.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#60_shuibengfang">
+      <texture>u_0413.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#49_shuibengfang">
+      <texture>u_0406.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#50_shuibengfang">
+      <texture>u_0586.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#51_shuibengfang">
+      <texture>u_0587.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#52_shuibengfang">
+      <texture>u_0162.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#53_shuibengfang">
+      <texture>u_0403.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#54_shuibengfang">
+      <texture>u_0405.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#55_shuibengfang">
+      <texture>u_0404.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#56_shuibengfang">
+      <texture>u_0412.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_shuibengfang">
+      <texture>u_0407.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#58_shuibengfang">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#59_shuibengfang">
+      <texture>u_0411.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#60_shuibengfang">
+      <texture>u_0413.jpg</texture>
+    </material>
+  </materials>
+<library>

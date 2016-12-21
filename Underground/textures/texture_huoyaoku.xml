@@ -1,0 +1,318 @@
+<library>
+  <textures>
+    <texture name="u_0473.jpg">
+      <file>/textures/u_0473.jpg</file>
+    </texture>
+    <texture name="u_0474.jpg">
+      <file>/textures/u_0474.jpg</file>
+    </texture>
+    <texture name="u_0475.jpg">
+      <file>/textures/u_0475.jpg</file>
+    </texture>
+    <texture name="u_0069.jpg">
+      <file>/textures/u_0069.jpg</file>
+    </texture>
+    <texture name="u_0472.jpg">
+      <file>/textures/u_0472.jpg</file>
+    </texture>
+    <texture name="u_0073.jpg">
+      <file>/textures/u_0073.jpg</file>
+    </texture>
+    <texture name="u_0070.jpg">
+      <file>/textures/u_0070.jpg</file>
+    </texture>
+    <texture name="u_0067.jpg">
+      <file>/textures/u_0067.jpg</file>
+    </texture>
+    <texture name="u_0061.jpg">
+      <file>/textures/u_0061.jpg</file>
+    </texture>
+    <texture name="u_0062.jpg">
+      <file>/textures/u_0062.jpg</file>
+    </texture>
+    <texture name="u_0060.jpg">
+      <file>/textures/u_0060.jpg</file>
+    </texture>
+    <texture name="u_0059.jpg">
+      <file>/textures/u_0059.jpg</file>
+    </texture>
+    <texture name="u_0052.jpg">
+      <file>/textures/u_0052.jpg</file>
+    </texture>
+    <texture name="u_0053.jpg">
+      <file>/textures/u_0053.jpg</file>
+    </texture>
+    <texture name="u_0054.jpg">
+      <file>/textures/u_0054.jpg</file>
+    </texture>
+    <texture name="u_0058.jpg">
+      <file>/textures/u_0058.jpg</file>
+    </texture>
+    <texture name="u_0047.jpg">
+      <file>/textures/u_0047.jpg</file>
+    </texture>
+    <texture name="u_0286.jpg">
+      <file>/textures/u_0286.jpg</file>
+    </texture>
+    <texture name="u_0048.jpg">
+      <file>/textures/u_0048.jpg</file>
+    </texture>
+    <texture name="u_0051.jpg">
+      <file>/textures/u_0051.jpg</file>
+    </texture>
+    <texture name="u_0050.png">
+      <file>/textures/u_0050.png</file>
+    </texture>
+    <texture name="u_0049.jpg">
+      <file>/textures/u_0049.jpg</file>
+    </texture>
+    <texture name="u_0040.png">
+      <file>/textures/u_0040.png</file>
+    </texture>
+    <texture name="u_0021.jpg">
+      <file>/textures/u_0021.jpg</file>
+    </texture>
+    <texture name="u_0307.jpg">
+      <file>/textures/u_0307.jpg</file>
+    </texture>
+    <texture name="u_0479.jpg">
+      <file>/textures/u_0479.jpg</file>
+    </texture>
+    <texture name="u_0190.jpg">
+      <file>/textures/u_0190.jpg</file>
+    </texture>
+    <texture name="u_0167.jpg">
+      <file>/textures/u_0167.jpg</file>
+    </texture>
+    <texture name="u_0441.jpg">
+      <file>/textures/u_0441.jpg</file>
+    </texture>
+    <texture name="u_0072.jpg">
+      <file>/textures/u_0072.jpg</file>
+    </texture>
+    <texture name="u_0071.jpg">
+      <file>/textures/u_0071.jpg</file>
+    </texture>
+    <texture name="u_0045.png">
+      <file>/textures/u_0045.png</file>
+    </texture>
+    <texture name="u_0044.png">
+      <file>/textures/u_0044.png</file>
+    </texture>
+    <texture name="u_0065.jpg">
+      <file>/textures/u_0065.jpg</file>
+    </texture>
+    <texture name="u_0306.jpg">
+      <file>/textures/u_0306.jpg</file>
+    </texture>
+    <texture name="u_0308.jpg">
+      <file>/textures/u_0308.jpg</file>
+    </texture>
+    <texture name="u_0305.jpg">
+      <file>/textures/u_0305.jpg</file>
+    </texture>
+    <texture name="u_0066.jpg">
+      <file>/textures/u_0066.jpg</file>
+    </texture>
+    <texture name="u_0020.jpg">
+      <file>/textures/u_0020.jpg</file>
+    </texture>
+    <texture name="u_0304.jpg">
+      <file>/textures/u_0304.jpg</file>
+    </texture>
+    <texture name="u_0303.jpg">
+      <file>/textures/u_0303.jpg</file>
+    </texture>
+    <texture name="u_0063.jpg">
+      <file>/textures/u_0063.jpg</file>
+    </texture>
+    <texture name="u_0064.jpg">
+      <file>/textures/u_0064.jpg</file>
+    </texture>
+    <texture name="u_0055.jpg">
+      <file>/textures/u_0055.jpg</file>
+    </texture>
+    <texture name="u_0384.jpg">
+      <file>/textures/u_0384.jpg</file>
+    </texture>
+    <texture name="u_0046.png">
+      <file>/textures/u_0046.png</file>
+    </texture>
+    <texture name="u_0068.jpg">
+      <file>/textures/u_0068.jpg</file>
+    </texture>
+    <texture name="u_0056.jpg">
+      <file>/textures/u_0056.jpg</file>
+    </texture>
+    <texture name="u_0057.jpg">
+      <file>/textures/u_0057.jpg</file>
+    </texture>
+    <texture name="u_0043.png">
+      <file>/textures/u_0043.png</file>
+    </texture>
+    <texture name="u_0041.png">
+      <file>/textures/u_0041.png</file>
+    </texture>
+    <texture name="u_0042.png">
+      <file>/textures/u_0042.png</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0473_huoyaoku">
+      <texture>u_0473.jpg</texture>
+    </material>
+    <material name="Material_u_0474_huoyaoku">
+      <texture>u_0474.jpg</texture>
+    </material>
+    <material name="Material_u_0475_huoyaoku">
+      <texture>u_0475.jpg</texture>
+    </material>
+    <material name="Material_u_0069_huoyaoku">
+      <texture>u_0069.jpg</texture>
+    </material>
+    <material name="Material_u_0472_huoyaoku">
+      <texture>u_0472.jpg</texture>
+    </material>
+    <material name="Material_u_0073_huoyaoku">
+      <texture>u_0073.jpg</texture>
+    </material>
+    <material name="Material_u_0070_huoyaoku">
+      <texture>u_0070.jpg</texture>
+    </material>
+    <material name="Material_u_0067_huoyaoku">
+      <texture>u_0067.jpg</texture>
+    </material>
+    <material name="Material_u_0061_huoyaoku">
+      <texture>u_0061.jpg</texture>
+    </material>
+    <material name="Material_u_0062_huoyaoku">
+      <texture>u_0062.jpg</texture>
+    </material>
+    <material name="Material_u_0060_huoyaoku">
+      <texture>u_0060.jpg</texture>
+    </material>
+    <material name="Material_u_0059_huoyaoku">
+      <texture>u_0059.jpg</texture>
+    </material>
+    <material name="Material_u_0052_huoyaoku">
+      <texture>u_0052.jpg</texture>
+    </material>
+    <material name="Material_u_0053_huoyaoku">
+      <texture>u_0053.jpg</texture>
+    </material>
+    <material name="Material_u_0054_huoyaoku">
+      <texture>u_0054.jpg</texture>
+    </material>
+    <material name="Material_u_0058_huoyaoku">
+      <texture>u_0058.jpg</texture>
+    </material>
+    <material name="Material_u_0047_huoyaoku">
+      <texture>u_0047.jpg</texture>
+    </material>
+    <material name="Material_u_0286_huoyaoku">
+      <texture>u_0286.jpg</texture>
+    </material>
+    <material name="Material_u_0048_huoyaoku">
+      <texture>u_0048.jpg</texture>
+    </material>
+    <material name="Material_u_0051_huoyaoku">
+      <texture>u_0051.jpg</texture>
+    </material>
+    <material name="Material_u_0050_huoyaoku">
+      <texture>u_0050.png</texture>
+    </material>
+    <material name="Material_u_0049_huoyaoku">
+      <texture>u_0049.jpg</texture>
+    </material>
+    <material name="Material_u_0040_huoyaoku">
+      <texture>u_0040.png</texture>
+    </material>
+    <material name="Material_u_0021_huoyaoku">
+      <texture>u_0021.jpg</texture>
+    </material>
+    <material name="Material_u_0307_huoyaoku">
+      <texture>u_0307.jpg</texture>
+    </material>
+    <material name="Material_u_0479_huoyaoku">
+      <texture>u_0479.jpg</texture>
+    </material>
+    <material name="Material_u_0190_huoyaoku">
+      <texture>u_0190.jpg</texture>
+    </material>
+    <material name="Material_u_0167_huoyaoku">
+      <texture>u_0167.jpg</texture>
+    </material>
+    <material name="Material_u_0441_huoyaoku">
+      <texture>u_0441.jpg</texture>
+    </material>
+    <material name="Material_u_0072_huoyaoku">
+      <texture>u_0072.jpg</texture>
+    </material>
+    <material name="Material_u_0071_huoyaoku">
+      <texture>u_0071.jpg</texture>
+    </material>
+    <material name="Material_u_0045_huoyaoku">
+      <texture>u_0045.png</texture>
+    </material>
+    <material name="Material_u_0044_huoyaoku">
+      <texture>u_0044.png</texture>
+    </material>
+    <material name="Material_u_0065_huoyaoku">
+      <texture>u_0065.jpg</texture>
+    </material>
+    <material name="Material_u_0306_huoyaoku">
+      <texture>u_0306.jpg</texture>
+    </material>
+    <material name="Material_u_0308_huoyaoku">
+      <texture>u_0308.jpg</texture>
+    </material>
+    <material name="Material_u_0305_huoyaoku">
+      <texture>u_0305.jpg</texture>
+    </material>
+    <material name="Material_u_0066_huoyaoku">
+      <texture>u_0066.jpg</texture>
+    </material>
+    <material name="Material_u_0020_huoyaoku">
+      <texture>u_0020.jpg</texture>
+    </material>
+    <material name="Material_u_0304_huoyaoku">
+      <texture>u_0304.jpg</texture>
+    </material>
+    <material name="Material_u_0303_huoyaoku">
+      <texture>u_0303.jpg</texture>
+    </material>
+    <material name="Material_u_0063_huoyaoku">
+      <texture>u_0063.jpg</texture>
+    </material>
+    <material name="Material_u_0064_huoyaoku">
+      <texture>u_0064.jpg</texture>
+    </material>
+    <material name="Material_u_0055_huoyaoku">
+      <texture>u_0055.jpg</texture>
+    </material>
+    <material name="Material_u_0384_huoyaoku">
+      <texture>u_0384.jpg</texture>
+    </material>
+    <material name="Material_u_0046_huoyaoku">
+      <texture>u_0046.png</texture>
+    </material>
+    <material name="Material_u_0068_huoyaoku">
+      <texture>u_0068.jpg</texture>
+    </material>
+    <material name="Material_u_0056_huoyaoku">
+      <texture>u_0056.jpg</texture>
+    </material>
+    <material name="Material_u_0057_huoyaoku">
+      <texture>u_0057.jpg</texture>
+    </material>
+    <material name="Material_u_0043_huoyaoku">
+      <texture>u_0043.png</texture>
+    </material>
+    <material name="Material_u_0041_huoyaoku">
+      <texture>u_0041.png</texture>
+    </material>
+    <material name="Material_u_0042_huoyaoku">
+      <texture>u_0042.png</texture>
+    </material>
+  </materials>
+</library>

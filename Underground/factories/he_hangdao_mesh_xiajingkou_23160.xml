@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="he_hangdao_mesh_xiajingkou_23160">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_u_0334_he_hangdao</material>
+      <v x="-21.8195" y="-3.7016" z="30.22" u="0.9995" v="0.9995" nx="0" ny="0" nz="1" />
+      <v x="-9.9359" y="-3.7016" z="30.22" u="0.0005" v="0.9995" nx="0" ny="0" nz="1" />
+      <v x="-9.9359" y="-1.1899" z="30.22" u="0.0005" v="0.0005" nx="0" ny="0" nz="1" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="-21.8195" y="-1.1899" z="30.22" u="0.9995" v="0.0005" nx="0" ny="0" nz="1" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

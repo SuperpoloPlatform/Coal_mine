@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="jingxiachaoshi_mesh_jingxiasha_113">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_u_0302_jingxiachaoshi</material>
+      <v x="-597.9706" y="-190.7399" z="90.3436" u="0" v="1" nx="0.3155" ny="-0.2649" nz="-0.9112" />
+      <v x="-597.928" y="-190.267" z="90.2208" u="0" v="0" nx="0.3155" ny="-0.2649" nz="-0.9112" />
+      <v x="-596.9025" y="-190.267" z="90.5759" u="1" v="0" nx="0.3155" ny="-0.2649" nz="-0.9112" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="-596.9452" y="-190.7399" z="90.6986" u="1" v="1" nx="0.3155" ny="-0.2649" nz="-0.9112" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

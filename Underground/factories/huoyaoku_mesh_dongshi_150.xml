@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="huoyaoku_mesh_dongshi_150">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_u_0041_huoyaoku</material>
+      <v x="-542.2809" y="-194.2184" z="-167.5208" u="0" v="0.9995" nx="-1" ny="0" nz="0" />
+      <v x="-542.2809" y="-192.5245" z="-167.5208" u="0" v="0.0005" nx="-1" ny="0" nz="0" />
+      <v x="-542.2809" y="-192.5245" z="-169.698" u="1" v="0.0005" nx="-1" ny="0" nz="0" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="-542.2809" y="-194.2184" z="-169.698" u="1" v="0.9995" nx="-1" ny="0" nz="0" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

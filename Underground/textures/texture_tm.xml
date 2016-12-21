@@ -1,0 +1,96 @@
+<library>
+  <textures>
+    <texture name="u_0177.png">
+      <file>/textures/u_0177.png</file>
+    </texture>
+    <texture name="u_0179.png">
+      <file>/textures/u_0179.png</file>
+    </texture>
+    <texture name="u_0176.png">
+      <file>/textures/u_0176.png</file>
+    </texture>
+    <texture name="u_0360.png">
+      <file>/textures/u_0360.png</file>
+    </texture>
+    <texture name="u_0361.png">
+      <file>/textures/u_0361.png</file>
+    </texture>
+    <texture name="u_0358.png">
+      <file>/textures/u_0358.png</file>
+    </texture>
+    <texture name="u_0359.png">
+      <file>/textures/u_0359.png</file>
+    </texture>
+    <texture name="u_0359.png">
+      <file>/textures/u_0359.png</file>
+    </texture>
+    <texture name="u_0359.png">
+      <file>/textures/u_0359.png</file>
+    </texture>
+    <texture name="u_0181.png">
+      <file>/textures/u_0181.png</file>
+    </texture>
+    <texture name="u_0192.png">
+      <file>/textures/u_0192.png</file>
+    </texture>
+    <texture name="u_0157.png">
+      <file>/textures/u_0157.png</file>
+    </texture>
+    <texture name="u_0175.png">
+      <file>/textures/u_0175.png</file>
+    </texture>
+    <texture name="u_0182.png">
+      <file>/textures/u_0182.png</file>
+    </texture>
+    <texture name="u_0180.png">
+      <file>/textures/u_0180.png</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0177_tm">
+      <texture>u_0177.png</texture>
+    </material>
+    <material name="Material_u_0179_tm">
+      <texture>u_0179.png</texture>
+    </material>
+    <material name="Material_u_0176_tm">
+      <texture>u_0176.png</texture>
+    </material>
+    <material name="Material_u_0360_tm">
+      <texture>u_0360.png</texture>
+    </material>
+    <material name="Material_u_0361_tm">
+      <texture>u_0361.png</texture>
+    </material>
+    <material name="Material_u_0358_tm">
+      <texture>u_0358.png</texture>
+    </material>
+    <material name="Material_u_0359_tm">
+      <texture>u_0359.png</texture>
+    </material>
+    <material name="Material_u_0359_tm">
+      <texture>u_0359.png</texture>
+    </material>
+    <material name="Material_u_0359_tm">
+      <texture>u_0359.png</texture>
+    </material>
+    <material name="Material_u_0181_tm">
+      <texture>u_0181.png</texture>
+    </material>
+    <material name="Material_u_0192_tm">
+      <texture>u_0192.png</texture>
+    </material>
+    <material name="Material_u_0157_tm">
+      <texture>u_0157.png</texture>
+    </material>
+    <material name="Material_u_0175_tm">
+      <texture>u_0175.png</texture>
+    </material>
+    <material name="Material_u_0182_tm">
+      <texture>u_0182.png</texture>
+    </material>
+    <material name="Material_u_0180_tm">
+      <texture>u_0180.png</texture>
+    </material>
+  </materials>
+<library>

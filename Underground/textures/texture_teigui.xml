@@ -1,0 +1,30 @@
+<library>
+  <textures>
+    <texture name="u_0166.jpg">
+      <file>/textures/u_0166.jpg</file>
+    </texture>
+    <texture name="u_0167.jpg">
+      <file>/textures/u_0167.jpg</file>
+    </texture>
+    <texture name="u_0340.jpg">
+      <file>/textures/u_0340.jpg</file>
+    </texture>
+    <texture name="u_0476.jpg">
+      <file>/textures/u_0476.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0166_teigui">
+      <texture>u_0166.jpg</texture>
+    </material>
+    <material name="Material_u_0167_teigui">
+      <texture>u_0167.jpg</texture>
+    </material>
+    <material name="Material_u_0340_teigui">
+      <texture>u_0340.jpg</texture>
+    </material>
+    <material name="Material_u_0476_teigui">
+      <texture>u_0476.jpg</texture>
+    </material>
+  </materials>
+</library>

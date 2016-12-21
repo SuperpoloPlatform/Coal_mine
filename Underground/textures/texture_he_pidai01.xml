@@ -1,0 +1,720 @@
+<library>
+  <textures>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0475.jpg">
+      <file>/textures/u_0475.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0475.jpg">
+      <file>/textures/u_0475.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0353.jpg">
+      <file>/textures/u_0353.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0307.jpg">
+      <file>/textures/u_0307.jpg</file>
+    </texture>
+    <texture name="u_0078.jpg">
+      <file>/textures/u_0078.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0078.jpg">
+      <file>/textures/u_0078.jpg</file>
+    </texture>
+    <texture name="u_0307.jpg">
+      <file>/textures/u_0307.jpg</file>
+    </texture>
+    <texture name="u_0267.jpg">
+      <file>/textures/u_0267.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0475.jpg">
+      <file>/textures/u_0475.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0475.jpg">
+      <file>/textures/u_0475.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+    <texture name="u_0503.jpg">
+      <file>/textures/u_0503.jpg</file>
+    </texture>
+    <texture name="u_0501.jpg">
+      <file>/textures/u_0501.jpg</file>
+    </texture>
+    <texture name="u_0502.jpg">
+      <file>/textures/u_0502.jpg</file>
+    </texture>
+    <texture name="u_0499.jpg">
+      <file>/textures/u_0499.jpg</file>
+    </texture>
+    <texture name="u_0500.jpg">
+      <file>/textures/u_0500.jpg</file>
+    </texture>
+    <texture name="u_0585.png">
+      <file>/textures/u_0585.png</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_he_pidai01">
+      <texture>u_0475.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_he_pidai01">
+      <texture>u_0475.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_u_0353_he_pidai01">
+      <texture>u_0353.jpg</texture>
+    </material>
+    <material name="Material_u_05018_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#40_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#39_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#43_he_pidai01">
+      <texture>u_0307.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#42_he_pidai01">
+      <texture>u_0078.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#45_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#41_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#39_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#40_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#41_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#42_he_pidai01">
+      <texture>u_0078.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#43_he_pidai01">
+      <texture>u_0307.jpg</texture>
+    </material>
+    <material name="Material_u_0267_he_pidai01">
+      <texture>u_0267.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#45_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_he_pidai01">
+      <texture>u_0475.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#57_he_pidai01">
+      <texture>u_0475.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#114_he_pidai01">
+      <texture>u_0503.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#115_he_pidai01">
+      <texture>u_0501.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#116_he_pidai01">
+      <texture>u_0502.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#117_he_pidai01">
+      <texture>u_0499.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#118_he_pidai01">
+      <texture>u_0500.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#119_he_pidai01">
+      <texture>u_0585.png</texture>
+    </material>
+  </materials>
+</library>

@@ -1,0 +1,204 @@
+<library>
+  <textures>
+    <texture name="u_0331.jpg">
+      <file>/textures/u_0331.jpg</file>
+    </texture>
+    <texture name="u_0292.jpg">
+      <file>/textures/u_0292.jpg</file>
+    </texture>
+    <texture name="u_0336.jpg">
+      <file>/textures/u_0336.jpg</file>
+    </texture>
+    <texture name="u_0036.jpg">
+      <file>/textures/u_0036.jpg</file>
+    </texture>
+    <texture name="u_0286.jpg">
+      <file>/textures/u_0286.jpg</file>
+    </texture>
+    <texture name="u_0309.jpg">
+      <file>/textures/u_0309.jpg</file>
+    </texture>
+    <texture name="u_0307.jpg">
+      <file>/textures/u_0307.jpg</file>
+    </texture>
+    <texture name="u_0307.jpg">
+      <file>/textures/u_0307.jpg</file>
+    </texture>
+    <texture name="u_0301.jpg">
+      <file>/textures/u_0301.jpg</file>
+    </texture>
+    <texture name="u_0282.jpg">
+      <file>/textures/u_0282.jpg</file>
+    </texture>
+    <texture name="u_0289.jpg">
+      <file>/textures/u_0289.jpg</file>
+    </texture>
+    <texture name="u_0283.png">
+      <file>/textures/u_0283.png</file>
+    </texture>
+    <texture name="u_0296.jpg">
+      <file>/textures/u_0296.jpg</file>
+    </texture>
+    <texture name="u_0302.jpg">
+      <file>/textures/u_0302.jpg</file>
+    </texture>
+    <texture name="u_0300.jpg">
+      <file>/textures/u_0300.jpg</file>
+    </texture>
+    <texture name="u_0288.jpg">
+      <file>/textures/u_0288.jpg</file>
+    </texture>
+    <texture name="u_0291.jpg">
+      <file>/textures/u_0291.jpg</file>
+    </texture>
+    <texture name="u_0295.jpg">
+      <file>/textures/u_0295.jpg</file>
+    </texture>
+    <texture name="u_0310.jpg">
+      <file>/textures/u_0310.jpg</file>
+    </texture>
+    <texture name="u_0290.jpg">
+      <file>/textures/u_0290.jpg</file>
+    </texture>
+    <texture name="u_0281.jpg">
+      <file>/textures/u_0281.jpg</file>
+    </texture>
+    <texture name="u_0284.jpg">
+      <file>/textures/u_0284.jpg</file>
+    </texture>
+    <texture name="u_0299.jpg">
+      <file>/textures/u_0299.jpg</file>
+    </texture>
+    <texture name="u_0297.jpg">
+      <file>/textures/u_0297.jpg</file>
+    </texture>
+    <texture name="u_0298.jpg">
+      <file>/textures/u_0298.jpg</file>
+    </texture>
+    <texture name="u_0293.jpg">
+      <file>/textures/u_0293.jpg</file>
+    </texture>
+    <texture name="u_0287.jpg">
+      <file>/textures/u_0287.jpg</file>
+    </texture>
+    <texture name="u_0280.jpg">
+      <file>/textures/u_0280.jpg</file>
+    </texture>
+    <texture name="u_0294.jpg">
+      <file>/textures/u_0294.jpg</file>
+    </texture>
+    <texture name="u_0285.jpg">
+      <file>/textures/u_0285.jpg</file>
+    </texture>
+    <texture name="u_0304.jpg">
+      <file>/textures/u_0304.jpg</file>
+    </texture>
+    <texture name="u_0303.jpg">
+      <file>/textures/u_0303.jpg</file>
+    </texture>
+    <texture name="u_0155.jpg">
+      <file>/textures/u_0155.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0331_jingxiachaoshi">
+      <texture>u_0331.jpg</texture>
+    </material>
+    <material name="Material_u_0292_jingxiachaoshi">
+      <texture>u_0292.jpg</texture>
+    </material>
+    <material name="Material_u_0336_jingxiachaoshi">
+      <texture>u_0336.jpg</texture>
+    </material>
+    <material name="Material_u_0036_jingxiachaoshi">
+      <texture>u_0036.jpg</texture>
+    </material>
+    <material name="Material_u_0286_jingxiachaoshi">
+      <texture>u_0286.jpg</texture>
+    </material>
+    <material name="Material_u_0309_jingxiachaoshi">
+      <texture>u_0309.jpg</texture>
+    </material>
+    <material name="Material_u_0307_jingxiachaoshi">
+      <texture>u_0307.jpg</texture>
+    </material>
+    <material name="Material_u_0307_jingxiachaoshi">
+      <texture>u_0307.jpg</texture>
+    </material>
+    <material name="Material_u_0301_jingxiachaoshi">
+      <texture>u_0301.jpg</texture>
+    </material>
+    <material name="Material_u_0282_jingxiachaoshi">
+      <texture>u_0282.jpg</texture>
+    </material>
+    <material name="Material_u_0289_jingxiachaoshi">
+      <texture>u_0289.jpg</texture>
+    </material>
+    <material name="Material_u_0283_jingxiachaoshi">
+      <texture>u_0283.png</texture>
+    </material>
+    <material name="Material_u_0296_jingxiachaoshi">
+      <texture>u_0296.jpg</texture>
+    </material>
+    <material name="Material_u_0302_jingxiachaoshi">
+      <texture>u_0302.jpg</texture>
+    </material>
+    <material name="Material_u_0300_jingxiachaoshi">
+      <texture>u_0300.jpg</texture>
+    </material>
+    <material name="Material_u_0288_jingxiachaoshi">
+      <texture>u_0288.jpg</texture>
+    </material>
+    <material name="Material_u_0291_jingxiachaoshi">
+      <texture>u_0291.jpg</texture>
+    </material>
+    <material name="Material_u_0295_jingxiachaoshi">
+      <texture>u_0295.jpg</texture>
+    </material>
+    <material name="Material_u_0310_jingxiachaoshi">
+      <texture>u_0310.jpg</texture>
+    </material>
+    <material name="Material_u_0290_jingxiachaoshi">
+      <texture>u_0290.jpg</texture>
+    </material>
+    <material name="Material_u_0281_jingxiachaoshi">
+      <texture>u_0281.jpg</texture>
+    </material>
+    <material name="Material_u_0284_jingxiachaoshi">
+      <texture>u_0284.jpg</texture>
+    </material>
+    <material name="Material_u_0299_jingxiachaoshi">
+      <texture>u_0299.jpg</texture>
+    </material>
+    <material name="Material_u_0297_jingxiachaoshi">
+      <texture>u_0297.jpg</texture>
+    </material>
+    <material name="Material_u_0298_jingxiachaoshi">
+      <texture>u_0298.jpg</texture>
+    </material>
+    <material name="Material_u_0293_jingxiachaoshi">
+      <texture>u_0293.jpg</texture>
+    </material>
+    <material name="Material_u_0287_jingxiachaoshi">
+      <texture>u_0287.jpg</texture>
+    </material>
+    <material name="Material_u_0280_jingxiachaoshi">
+      <texture>u_0280.jpg</texture>
+    </material>
+    <material name="Material_u_0294_jingxiachaoshi">
+      <texture>u_0294.jpg</texture>
+    </material>
+    <material name="Material_u_0285_jingxiachaoshi">
+      <texture>u_0285.jpg</texture>
+    </material>
+    <material name="Material_u_0304_jingxiachaoshi">
+      <texture>u_0304.jpg</texture>
+    </material>
+    <material name="Material_u_0303_jingxiachaoshi">
+      <texture>u_0303.jpg</texture>
+    </material>
+    <material name="Material_u_0155_jingxiachaoshi">
+      <texture>u_0155.jpg</texture>
+    </material>
+  </materials>
+</library>

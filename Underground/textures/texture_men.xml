@@ -1,0 +1,42 @@
+<library>
+  <textures>
+    <texture name="u_0164.jpg">
+      <file>/textures/u_0164.jpg</file>
+    </texture>
+    <texture name="u_0164.jpg">
+      <file>/textures/u_0164.jpg</file>
+    </texture>
+    <texture name="u_0163.jpg">
+      <file>/textures/u_0163.jpg</file>
+    </texture>
+    <texture name="u_0163.jpg">
+      <file>/textures/u_0163.jpg</file>
+    </texture>
+    <texture name="u_0194.jpg">
+      <file>/textures/u_0194.jpg</file>
+    </texture>
+    <texture name="u_0194.jpg">
+      <file>/textures/u_0194.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0164_men">
+      <texture>u_0164.jpg</texture>
+    </material>
+    <material name="Material_u_0164_men">
+      <texture>u_0164.jpg</texture>
+    </material>
+    <material name="Material_u_0163_men">
+      <texture>u_0163.jpg</texture>
+    </material>
+    <material name="Material_u_0163_men">
+      <texture>u_0163.jpg</texture>
+    </material>
+    <material name="Material_u_0194_men">
+      <texture>u_0194.jpg</texture>
+    </material>
+    <material name="Material_u_0194_men">
+      <texture>u_0194.jpg</texture>
+    </material>
+  </materials>
+</library>

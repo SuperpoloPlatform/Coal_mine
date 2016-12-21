@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="he_pidai02_mesh_Object03_57137">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_JoinedMaterial_#145_he_pidai02</material>
+      <v x="0.671" y="-0.461" z="3.158" u="14.6268" v="0.9995" nx="1" ny="0" nz="0" />
+      <v x="0.6708" y="-0.5601" z="-3.1571" u="0.0017" v="0.9995" nx="1" ny="0" nz="0" />
+      <v x="0.6708" y="-0.123" z="-3.1575" u="0.0017" v="0.0005" nx="1" ny="0" nz="0" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="0.671" y="-0.0239" z="3.1576" u="14.6268" v="0.0005" nx="1" ny="0" nz="0" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

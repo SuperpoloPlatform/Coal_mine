@@ -1,0 +1,84 @@
+<library>
+  <textures>
+    <texture name="u_0595.jpg">
+      <file>/textures/u_0595.jpg</file>
+    </texture>
+    <texture name="u_0594.jpg">
+      <file>/textures/u_0594.jpg</file>
+    </texture>
+    <texture name="u_0608.jpg">
+      <file>/textures/u_0608.jpg</file>
+    </texture>
+    <texture name="u_0609.jpg">
+      <file>/textures/u_0609.jpg</file>
+    </texture>
+    <texture name="u_0602.jpg">
+      <file>/textures/u_0602.jpg</file>
+    </texture>
+    <texture name="u_0603.jpg">
+      <file>/textures/u_0603.jpg</file>
+    </texture>
+    <texture name="u_0604.jpg">
+      <file>/textures/u_0604.jpg</file>
+    </texture>
+    <texture name="u_0605.jpg">
+      <file>/textures/u_0605.jpg</file>
+    </texture>
+    <texture name="u_0606.jpg">
+      <file>/textures/u_0606.jpg</file>
+    </texture>
+    <texture name="u_0607.jpg">
+      <file>/textures/u_0607.jpg</file>
+    </texture>
+    <texture name="u_0601.jpg">
+      <file>/textures/u_0601.jpg</file>
+    </texture>
+    <texture name="u_0600.jpg">
+      <file>/textures/u_0600.jpg</file>
+    </texture>
+    <texture name="u_0599.jpg">
+      <file>/textures/u_0599.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_u_0595_yeyazhijia">
+      <texture>u_0595.jpg</texture>
+    </material>
+    <material name="Material_u_0594_yeyazhijia">
+      <texture>u_0594.jpg</texture>
+    </material>
+    <material name="Material_u_0608_yeyazhijia">
+      <texture>u_0608.jpg</texture>
+    </material>
+    <material name="Material_u_0609_yeyazhijia">
+      <texture>u_0609.jpg</texture>
+    </material>
+    <material name="Material_u_0602_yeyazhijia">
+      <texture>u_0602.jpg</texture>
+    </material>
+    <material name="Material_u_0603_yeyazhijia">
+      <texture>u_0603.jpg</texture>
+    </material>
+    <material name="Material_u_0604_yeyazhijia">
+      <texture>u_0604.jpg</texture>
+    </material>
+    <material name="Material_u_0605_yeyazhijia">
+      <texture>u_0605.jpg</texture>
+    </material>
+    <material name="Material_u_0606_yeyazhijia">
+      <texture>u_0606.jpg</texture>
+    </material>
+    <material name="Material_u_0607_yeyazhijia">
+      <texture>u_0607.jpg</texture>
+    </material>
+    <material name="Material_u_0601_yeyazhijia">
+      <texture>u_0601.jpg</texture>
+    </material>
+    <material name="Material_u_0600_yeyazhijia">
+      <texture>u_0600.jpg</texture>
+    </material>
+    <material name="Material_u_0599_yeyazhijia">
+      <texture>u_0599.jpg</texture>
+    </material>
+  </materials>
+</library>

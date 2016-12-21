@@ -1,0 +1,21 @@
+<library>
+  <meshfact name="0bian_mesh_jianceqi02_1191">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_JoinedMaterial_#90_0bian</material>
+      <v x="3.6522" y="0.6857" z="0.4055" u="0" v="1" nx="0" ny="0" nz="1" />
+      <v x="3.6522" y="0.7865" z="0.4055" u="0" v="0" nx="0" ny="0" nz="1" />
+      <v x="3.4584" y="0.7865" z="0.4055" u="1" v="0" nx="0" ny="0" nz="1" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="3.4584" y="0.6857" z="0.4055" u="1" v="1" nx="0" ny="0" nz="1" />
+      <t v1="2" v2="3" v3="0" />
+      <v x="2.331" y="0.6857" z="0.4055" u="0" v="1" nx="0" ny="0" nz="1" />
+      <v x="2.331" y="0.7865" z="0.4055" u="0" v="0" nx="0" ny="0" nz="1" />
+      <v x="2.1372" y="0.7865" z="0.4055" u="1" v="0" nx="0" ny="0" nz="1" />
+      <t v1="4" v2="5" v3="6" />
+      <v x="2.1372" y="0.6857" z="0.4055" u="1" v="1" nx="0" ny="0" nz="1" />
+      <t v1="6" v2="7" v3="4" />
+    </params>
+  </meshfact>
+</library>

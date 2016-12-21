@@ -1,0 +1,186 @@
+<library>
+  <textures>
+    <texture name="u_0030.jpg">
+      <file>/textures/u_0030.jpg</file>
+    </texture>
+    <texture name="u_0024.jpg">
+      <file>/textures/u_0024.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0409.jpg">
+      <file>/textures/u_0409.jpg</file>
+    </texture>
+    <texture name="u_0410.jpg">
+      <file>/textures/u_0410.jpg</file>
+    </texture>
+    <texture name="u_0023.jpg">
+      <file>/textures/u_0023.jpg</file>
+    </texture>
+    <texture name="u_0025.jpg">
+      <file>/textures/u_0025.jpg</file>
+    </texture>
+    <texture name="u_0266.jpg">
+      <file>/textures/u_0266.jpg</file>
+    </texture>
+    <texture name="u_0818.jpg">
+      <file>/textures/u_0818.jpg</file>
+    </texture>
+    <texture name="u_0032.jpg">
+      <file>/textures/u_0032.jpg</file>
+    </texture>
+    <texture name="u_0024.jpg">
+      <file>/textures/u_0024.jpg</file>
+    </texture>
+    <texture name="u_0030.jpg">
+      <file>/textures/u_0030.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0286.jpg">
+      <file>/textures/u_0286.jpg</file>
+    </texture>
+    <texture name="u_0030.jpg">
+      <file>/textures/u_0030.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0024.jpg">
+      <file>/textures/u_0024.jpg</file>
+    </texture>
+    <texture name="u_0286.jpg">
+      <file>/textures/u_0286.jpg</file>
+    </texture>
+    <texture name="u_0025.jpg">
+      <file>/textures/u_0025.jpg</file>
+    </texture>
+    <texture name="u_0030.jpg">
+      <file>/textures/u_0030.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0409.jpg">
+      <file>/textures/u_0409.jpg</file>
+    </texture>
+    <texture name="u_0410.jpg">
+      <file>/textures/u_0410.jpg</file>
+    </texture>
+    <texture name="u_0818.jpg">
+      <file>/textures/u_0818.jpg</file>
+    </texture>
+    <texture name="u_0025.jpg">
+      <file>/textures/u_0025.jpg</file>
+    </texture>
+    <texture name="u_0030.jpg">
+      <file>/textures/u_0030.jpg</file>
+    </texture>
+    <texture name="u_0408.jpg">
+      <file>/textures/u_0408.jpg</file>
+    </texture>
+    <texture name="u_0409.jpg">
+      <file>/textures/u_0409.jpg</file>
+    </texture>
+    <texture name="u_0410.jpg">
+      <file>/textures/u_0410.jpg</file>
+    </texture>
+    <texture name="u_0414.jpg">
+      <file>/textures/u_0414.jpg</file>
+    </texture>
+  </textures>
+  <materials>
+    <material name="Material_JoinedMaterial_#25_fengshuiguan">
+      <texture>u_0030.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#16_fengshuiguan">
+      <texture>u_0024.jpg</texture>
+    </material>
+    <material name="Material_u_0408_fengshuiguan">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#27_fengshuiguan">
+      <texture>u_0409.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#28_fengshuiguan">
+      <texture>u_0410.jpg</texture>
+    </material>
+    <material name="Material_u_0023_fengshuiguan">
+      <texture>u_0023.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#24_fengshuiguan">
+      <texture>u_0025.jpg</texture>
+    </material>
+    <material name="Material_u_0266_fengshuiguan">
+      <texture>u_0266.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#23_fengshuiguan">
+      <texture>u_0818.jpg</texture>
+    </material>
+    <material name="Material_u_0032_fengshuiguan">
+      <texture>u_0032.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#16_fengshuiguan">
+      <texture>u_0024.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#25_fengshuiguan">
+      <texture>u_0030.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#26_fengshuiguan">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#17_fengshuiguan">
+      <texture>u_0286.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#25_fengshuiguan">
+      <texture>u_0030.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#26_fengshuiguan">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#16_fengshuiguan">
+      <texture>u_0024.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#17_fengshuiguan">
+      <texture>u_0286.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#24_fengshuiguan">
+      <texture>u_0025.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#25_fengshuiguan">
+      <texture>u_0030.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#26_fengshuiguan">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#27_fengshuiguan">
+      <texture>u_0409.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#28_fengshuiguan">
+      <texture>u_0410.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#23_fengshuiguan">
+      <texture>u_0818.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#24_fengshuiguan">
+      <texture>u_0025.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#25_fengshuiguan">
+      <texture>u_0030.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#26_fengshuiguan">
+      <texture>u_0408.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#27_fengshuiguan">
+      <texture>u_0409.jpg</texture>
+    </material>
+    <material name="Material_JoinedMaterial_#28_fengshuiguan">
+      <texture>u_0410.jpg</texture>
+    </material>
+    <material name="Material_u_0414_fengshuiguan">
+      <texture>u_0414.jpg</texture>
+    </material>
+  </materials>
+</library>

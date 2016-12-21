@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="1bian_mesh_Object01_541">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_JoinedMaterial_#94_1bian</material>
+      <v x="0.0601" y="0.8395" z="5.3697" u="0.9995" v="0.9995" nx="0" ny="-0.0008" nz="1" />
+      <v x="0.3577" y="0.8395" z="5.3697" u="0.0005" v="0.9995" nx="0" ny="-0.0008" nz="1" />
+      <v x="0.3577" y="0.954" z="5.3698" u="0.0005" v="0.0005" nx="0" ny="-0.0008" nz="1" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="0.0601" y="0.954" z="5.3698" u="0.9995" v="0.0005" nx="0" ny="-0.0008" nz="1" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>

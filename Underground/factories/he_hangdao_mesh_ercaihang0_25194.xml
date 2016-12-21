@@ -1,0 +1,15 @@
+<library>
+  <meshfact name="he_hangdao_mesh_ercaihang0_25194">
+    <plugin>genmeshfact</plugin>
+    <zuse />
+    <params>
+      <material>Material_JoinedMaterial_#225_he_hangdao</material>
+      <v x="9.4045" y="-20.3813" z="45.5067" u="0.0003" v="0.0505" nx="0" ny="-1" nz="-0.0048" />
+      <v x="8.5066" y="-20.3813" z="45.5067" u="0.5597" v="0.0505" nx="0" ny="-1" nz="-0.0048" />
+      <v x="8.5066" y="-20.3695" z="43.0427" u="0.5597" v="0.9995" nx="0" ny="-1" nz="-0.0048" />
+      <t v1="0" v2="1" v3="2" />
+      <v x="9.4045" y="-20.3695" z="43.0427" u="0.0003" v="0.9995" nx="0" ny="-1" nz="-0.0048" />
+      <t v1="2" v2="3" v3="0" />
+    </params>
+  </meshfact>
+</library>
